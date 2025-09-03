@@ -1,1 +1,0 @@
-This is the push data from the final.txt. This is the pull data sent from github repository.
